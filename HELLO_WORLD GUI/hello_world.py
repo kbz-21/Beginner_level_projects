@@ -21,3 +21,6 @@ label.pack(expand=True)
 
 # Run the app
 root.mainloop()
+
+
+# this is an advanced way with attractive ui 
