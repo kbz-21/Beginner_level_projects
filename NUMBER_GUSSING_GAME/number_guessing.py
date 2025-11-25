@@ -93,3 +93,6 @@ tk.Button(
 
 root.bind("<Return>", lambda event: check_guess())
 root.mainloop()
+
+
+#this is well functioning number guessing game with attractive ui
